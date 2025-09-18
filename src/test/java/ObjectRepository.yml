@@ -1,0 +1,13 @@
+Home Page:
+   loginPagepagetitle: "login"
+Algoshack:
+   AlgoQADashboardLabelXPATH: "//h6[contains(.,'AlgoQA Dashboard : Amazon_project')]"
+   DashboardLabelXPATH: "//p[contains(.,'Dashboard')]"
+   EnteryouremailTextBoxXPATH: "//input[@name='email']"
+   EnteryourpasswordTextBoxXPATH: "//input[@name='password']"
+   LoginButtonXPATH: "//button[contains(.,'Login')]"
+   LogintoLabelXPATH: "(//img[@alt='logo'])[1]"
+   skipButtonXPATH: "//button[contains(text(),'Skip')]"
+   UsersignedinsuccessfullyLabelXPATH: "(//div[contains(.,'User signed in successfully')])[7]"
+   DefaultpagepageTitle: ""
+   messageLabeltext: ""

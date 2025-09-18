@@ -1,0 +1,38 @@
+[
+  {
+    "locator": "//h3[contains(.,'Login to')]",
+    "target": "<h3 class='MuiTypography-root MuiTypography-h3 css-a5jevx'>Login to</h3>"
+  },
+  {
+    "locator": "//input[@id=':r25:']",
+    "target": "<input aria-invalid='false' id=':r25:' name='email' placeholder='Enter your email' type='text' class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-15v65ck' value=''>"
+  },
+  {
+    "locator": "//input[@id=':r26:']",
+    "target": "<input aria-invalid='false' id=':r26:' name='password' placeholder='Enter your password' type='password' class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-s43tfo' value=''>"
+  },
+  {
+    "locator": "//button[@id=':r28:']",
+    "target": "<button class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-15x34pt' tabindex='0' type='submit' id=':r28:'>Login<span class='MuiTouchRipple-root css-4mb1j7'><span class='css-19ri5qq MuiTouchRipple-ripple MuiTouchRipple-rippleVisible' style='width: 592.652px; height: 592.652px; top: -290.326px; left: -122.326px;'><span class='MuiTouchRipple-child MuiTouchRipple-childLeaving'></span></span></span></button>"
+  },
+  {
+    "locator": "(//div[contains(.,'User signed in successfully')])[7]",
+    "target": "<div class='MuiAlert-message css-127h8j3'>User signed in successfully</div>"
+  },
+  {
+    "locator": "//input[@name='email']",
+    "target": "<input aria-invalid='false' id=':r2:' name='email' placeholder='Enter your email' type='text' class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-15v65ck' value=''>"
+  },
+  {
+    "locator": "//input[@name='password']",
+    "target": "<input aria-invalid='false' id=':r3:' name='password' placeholder='Enter your password' type='password' class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-s43tfo' value=''>"
+  },
+  {
+    "locator": "//button[contains(.,'Login')]",
+    "target": "<button class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-1ppih5c' tabindex='0' type='submit' id=':r5:'>Login</button>"
+  },
+  {
+    "locator": "//button[contains(text(),'Skip')]",
+    "target": "<button class='skip_all_tour'>Skip</button>"
+  }
+]
